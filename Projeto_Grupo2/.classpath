@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Projeto_Grupo2/src"/>
+	<classpathentry kind="lib" path="/home/vinicius/Documentos/PI/PI Leitor de QR Code/Projeto_Grupo2/Projeto_Grupo2/lib/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="/home/vinicius/Documentos/PI/PI Leitor de QR Code/Projeto_Grupo2/Projeto_Grupo2/lib/core-3.3.3.jar"/>
+	<classpathentry kind="lib" path="/home/vinicius/Documentos/PI/PI Leitor de QR Code/Projeto_Grupo2/Projeto_Grupo2/lib/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="/home/vinicius/Documentos/PI/PI Leitor de QR Code/Projeto_Grupo2/Projeto_Grupo2/lib/javase-3.3.3.jar"/>
+	<classpathentry kind="lib" path="/home/vinicius/Documentos/PI/PI Leitor de QR Code/Projeto_Grupo2/Projeto_Grupo2/lib/kotlin-stdlib-1.2.71.jar"/>
+	<classpathentry kind="lib" path="/home/vinicius/Documentos/PI/PI Leitor de QR Code/Projeto_Grupo2/Projeto_Grupo2/lib/mysql-connector-java-5-1-30.jar"/>
+	<classpathentry kind="lib" path="/home/vinicius/Documentos/PI/PI Leitor de QR Code/Projeto_Grupo2/Projeto_Grupo2/lib/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/vinicius/Documentos/PI/PI Leitor de QR Code/Projeto_Grupo2/Projeto_Grupo2/lib/okio-2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/vinicius/Documentos/PI/PI Leitor de QR Code/Projeto_Grupo2/Projeto_Grupo2/lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/vinicius/Documentos/PI/PI Leitor de QR Code/Projeto_Grupo2/Projeto_Grupo2/lib/webcam-capture-0.3.10.jar"/>
+	<classpathentry kind="lib" path="/home/vinicius/Documentos/PI/PI Leitor de QR Code/Projeto_Grupo2/Projeto_Grupo2/lib/zxing-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/vinicius/Documentos/PI/PI Leitor de QR Code/Projeto_Grupo2/Projeto_Grupo2/lib/zxing-javase.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Projeto_Grupo2/bin"/>
+</classpath>
